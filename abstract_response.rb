@@ -1,6 +1,6 @@
 require 'httparty'
 require 'data_mapper'
- 
+
 class AbstractResponse
   include DataMapper::Resource
 
